@@ -67,6 +67,5 @@ int main(){
      float vitt = 5.66;
      cout<<vitt;
      // you will successed : white space are not allowed in taking variable
-     //9262684695
 
 }
